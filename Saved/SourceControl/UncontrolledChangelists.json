@@ -5,6 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/mAPS/TestMap.umap",
+				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/savegame/LevelEntry_BP.uasset",
+				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/savegame/LevelExit_BP.uasset",
+				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/mAPS/PlayerHome.umap",
+				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/mAPS/PlayerHome_BuiltData.uasset",
+				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/731Character.uasset",
+				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/savegame/QuestOne_BP.uasset",
+				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/savegame/QuestTwo_BP.uasset",
 				"D:/FALMOUTH/Module3/IndieGlobe731/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
