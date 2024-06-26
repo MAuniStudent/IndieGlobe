@@ -1,6 +1,8 @@
-2024/06/23-04:08:18.352 1243c Creating DB D:/FALMOUTH/Module3/IndieGlobe/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
-2024/06/23-04:08:18.423 1243c Reusing MANIFEST D:/FALMOUTH/Module3/IndieGlobe/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/06/23-04:53:41.772 b074 Level-0 table #5: started
-2024/06/23-04:53:41.914 b074 Level-0 table #5: 1211 bytes OK
-2024/06/23-04:53:41.939 b074 Delete type=0 #3
-2024/06/23-04:53:41.962 b074 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/06/25-19:17:18.924 6dc4 Reusing MANIFEST D:/FALMOUTH/Module3/IndieGlobe/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/25-19:17:18.924 6dc4 Recovering log #7
+2024/06/25-19:17:18.924 6dc4 Reusing old log D:/FALMOUTH/Module3/IndieGlobe/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000007.log 
+2024/06/25-19:29:42.028 6874 Level-0 table #11: started
+2024/06/25-19:29:42.029 6874 Level-0 table #11: 0 bytes OK
+2024/06/25-19:29:42.069 6874 Delete type=0 #7
+2024/06/25-19:29:42.070 6874 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/06/25-19:29:42.070 6874 Manual compaction at level-1 from (begin) .. (end); will stop at (end)
