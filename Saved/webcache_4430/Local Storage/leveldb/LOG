@@ -1,6 +1,6 @@
-2024/07/22-11:10:01.360 70dc Reusing MANIFEST D:/FALMOUTH/Module3/IndieGlobe/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2024/07/22-11:10:01.833 70dc Recovering log #7
-2024/07/22-11:10:01.851 70dc Reusing old log D:/FALMOUTH/Module3/IndieGlobe/Saved/webcache_4430\Local Storage\leveldb/000007.log 
-2024/07/22-11:11:31.407 70dc Level-0 table #11: started
-2024/07/22-11:11:31.446 70dc Level-0 table #11: 23519 bytes OK
-2024/07/22-11:11:31.470 70dc Delete type=0 #7
+2024/07/24-23:22:07.432 7634 Reusing MANIFEST D:/FALMOUTH/Module3/IndieGlobe/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/07/24-23:22:07.724 7634 Recovering log #10
+2024/07/24-23:22:07.770 7634 Reusing old log D:/FALMOUTH/Module3/IndieGlobe/Saved/webcache_4430\Local Storage\leveldb/000010.log 
+2024/07/24-23:33:33.393 78f0 Level-0 table #14: started
+2024/07/24-23:33:33.444 78f0 Level-0 table #14: 19444 bytes OK
+2024/07/24-23:33:33.469 78f0 Delete type=0 #10
