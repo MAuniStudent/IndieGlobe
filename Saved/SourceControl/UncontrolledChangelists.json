@@ -8,7 +8,9 @@
 				"D:/FALMOUTH/Module3/IndieGlobe/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/Materials/M_731base_MetalicGreen.uasset",
 				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/mAPS/FileDelivery_BuiltData.uasset",
-				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/mAPS/FileDelivery.umap"
+				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/mAPS/FileDelivery.umap",
+				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/mAPS/PlayerHome.umap",
+				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/mAPS/PlayerHome_BuiltData.uasset"
 			]
 		}
 	]
