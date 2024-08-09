@@ -14,7 +14,22 @@
 				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/Meshs/StreetLamp.uasset",
 				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/Meshs/StreetLampPost.uasset",
 				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/Interactables/HiFiRadio/HiFi_BP.uasset",
-				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/731Character.uasset"
+				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/731Character.uasset",
+				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/UI/ActiveQuest_WB.uasset",
+				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/UI/HUDassets/BackgroundFour.uasset",
+				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/UI/HUDassets/BackgroundOne.uasset",
+				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/UI/HUDassets/BackgroundThree.uasset",
+				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/UI/HUDassets/BackgroundTwo.uasset",
+				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/UI/HUDassets/Health-icon-red-1024x1024.uasset",
+				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/UI/PlayerHUD.uasset",
+				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/UI/QuestObjective_WB.uasset",
+				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/UI/InteractionPrompt_WB.uasset",
+				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/UI/QuestDialogue_WB.uasset",
+				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/UI/Quest_WB.uasset",
+				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/UI/QuestWhiteboard_WB.uasset",
+				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/UI/HUDassets/BackPanel.uasset",
+				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/Meshs/smartphone/SmarttPhone_WB.uasset",
+				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/Meshs/smartphone/SmarttPhoneCall_WB.uasset"
 			]
 		}
 	]
