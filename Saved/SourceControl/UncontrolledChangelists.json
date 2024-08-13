@@ -67,7 +67,14 @@
 				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/Meshs/House/KitchenLowerRoof.uasset",
 				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/Meshs/BasementCornerWall.uasset",
 				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/Meshs/House/KitchenPiller.uasset",
-				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/Meshs/House/KitchenpillerTwo.uasset"
+				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/Meshs/House/KitchenpillerTwo.uasset",
+				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/mAPS/PlayerSelection.umap",
+				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/mAPS/PlayerSelection_BuiltData.uasset",
+				"D:/FALMOUTH/Module3/IndieGlobe/Content/Action_Male_and_Female/Blueprints/731PlayerSelection.uasset",
+				"D:/FALMOUTH/Module3/IndieGlobe/Content/Characters/731PlayerSelection.uasset",
+				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/731PlayerSelection.uasset",
+				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/PlayerSelectionCharacter.uasset",
+				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/PlayerSelection.uasset"
 			]
 		}
 	]
