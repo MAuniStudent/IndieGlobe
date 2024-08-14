@@ -70,11 +70,23 @@
 				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/Meshs/House/KitchenpillerTwo.uasset",
 				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/mAPS/PlayerSelection.umap",
 				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/mAPS/PlayerSelection_BuiltData.uasset",
-				"D:/FALMOUTH/Module3/IndieGlobe/Content/Action_Male_and_Female/Blueprints/731PlayerSelection.uasset",
 				"D:/FALMOUTH/Module3/IndieGlobe/Content/Characters/731PlayerSelection.uasset",
+				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/PlayerSelection.uasset",
+				"D:/FALMOUTH/Module3/IndieGlobe/Content/TP_Assets/LoftOffice/Materials/M_Lamp_Yellowglow_3.uasset",
+				"D:/FALMOUTH/Module3/IndieGlobe/Content/TP_Assets/LoftOffice/Materials/M_Lamp_Yellowglow.uasset",
+				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/Materials/M_HexPulse.uasset",
+				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/PlayerLOGIC/_S.uasset",
+				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/PlayerLOGIC/S_BodyParts.uasset",
+				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/PlayerLOGIC/CharacterStructure.uasset",
+				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/savegame/731GameInstance_BP.uasset",
+				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/UI/CharacterSelection_WB.uasset",
+				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/UI/HUDassets/charSelectBack.uasset",
+				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/UI/CharacterSelectionScreen_WB.uasset",
+				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/UI/HUDassets/chevron.uasset",
+				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/UI/HUDassets/chevronRight.uasset",
+				"D:/FALMOUTH/Module3/IndieGlobe/Content/Action_Male_and_Female/Blueprints/731PlayerSelection.uasset",
 				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/731PlayerSelection.uasset",
-				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/PlayerSelectionCharacter.uasset",
-				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/PlayerSelection.uasset"
+				"D:/FALMOUTH/Module3/IndieGlobe/Content/BLUEPRINTS/PlayerSelectionCharacter.uasset"
 			]
 		}
 	]
